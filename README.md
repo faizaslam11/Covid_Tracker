@@ -1,5 +1,5 @@
 ## Covid Tracker 
-with number of cases in specific country.
+It will show number of cases in specific country with the representation of Manhattan plot.
 
 ### `npm start`
 
