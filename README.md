@@ -1,4 +1,5 @@
-Coivd Tracker with number of cases in specific country.
+## Covid Tracker 
+with number of cases in specific country.
 
 ### `npm start`
 
