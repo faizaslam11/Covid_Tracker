@@ -12,6 +12,7 @@ const Info = ({ data: { confirmed, recovered, deaths, lastUpdate } }) => {
     <div className={styles.container}>
         <Typography gutterBottom variant="h4" component="h2">Global</Typography>
       <Grid container spacing={3} justify="center">
+//         will add more section here
         <CardComponent
           className={styles.infected}
           cardTitle="Infected"
